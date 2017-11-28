@@ -1,0 +1,22 @@
+{
+  "name": "bfd-token",
+  "version": "1.0.0",
+  "description": "BTRIC Founding Donor Token (Ethereum ERC20)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btric/bfd-token.git"
+  },
+  "author": "Blockchain Technology Research Innovations Corporation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btric/bfd-token/issues"
+  },
+  "homepage": "https://github.com/btric/bfd-token#readme"
+}
