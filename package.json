@@ -2,7 +2,7 @@
   "name": "bfd-token",
   "version": "1.0.0",
   "description": "BTRIC Founding Donor Token (Ethereum ERC20)",
-  "main": "truffle-config.js",
+  "main": "truffle.js",
   "directories": {
     "test": "test"
   },
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/btric/bfd-token/issues"
   },
-  "homepage": "https://github.com/btric/bfd-token#readme"
+  "homepage": "https://github.com/btric/bfd-token#readme",
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "ethereumjs-wallet": "^0.6.0",
+    "truffle-wallet-provider": "0.0.5"
+  }
 }
